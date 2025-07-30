@@ -1,4 +1,4 @@
-name: TOOLBOXLAP
+name: WIZARD
 
 on:
   workflow_dispatch:
